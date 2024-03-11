@@ -1,0 +1,45 @@
+html{
+    font-size: 1rem;
+}
+
+h1{
+    color:blue;
+}
+
+input[readonly]{
+    background-color: lightgray;
+}
+
+main{
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    gap:1em;
+}
+
+button{
+    width: 15em;
+    height: 2em;
+}
+
+table{
+    border-collapse: collapse;
+}
+th,td{
+    border:solid 1px black;
+    padding:0.5em;
+}
+
+thead{
+    background-color: beige;
+}
+
+.error{
+    border: dashed red 2px;
+    padding:0.5em;
+}
+
+.info{
+    border:solid green 2px;
+    padding:0.5em;
+}

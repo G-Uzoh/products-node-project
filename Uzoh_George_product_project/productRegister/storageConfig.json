@@ -1,0 +1,6 @@
+{
+    "storageFile": "Uzoh_George_products.json",
+    "adapterFile": "productAdapter.js",
+    "primaryKey": "productId",
+    "resource": "products"
+}
